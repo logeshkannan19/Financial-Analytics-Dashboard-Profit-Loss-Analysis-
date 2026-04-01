@@ -102,5 +102,4 @@ Based on the generated analysis (found in `reports/business_insights.txt`):
 
 ---
 
-**Author:** Senior Data Analyst / BI Developer
-**Date:** 2026 
+
