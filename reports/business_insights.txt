@@ -1,0 +1,16 @@
+=========================================
+FINANCIAL ANALYTICS - BUSINESS INSIGHTS
+=========================================
+
+1. High-Profit and Loss-Making Units:
+   - The highest performing Business Unit is 'Cloud Infrastructure'.
+   - The lowest performing Business Unit is 'Retail'. Strategic review is recommended for optimizing operational costs in this unit.
+
+2. Cost-Heavy Categories:
+   - 'R&D' is the most significant cost driver.
+   - Recommendation: Audit expenses within this category to identify potential negotiation leverage with vendors or efficiency optimizations.
+
+3. Overall Performance:
+   - Total Revenue: $359,277,459.40
+   - Total Profit:  $37,420,137.11
+   - Overall Profit Margin: 10.42%
